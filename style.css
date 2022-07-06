@@ -9,7 +9,7 @@ body {
     flex-direction: row;
     width: 100%;
     background-color: #fff;
-    margin: 40px auto;
+    margin: 10px auto;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
 li {
@@ -52,8 +52,7 @@ padding-bottom: 5px;
 .sidebar{
 display: flex;
 flex-flow: column wrap;
-width: 400px;
-flex-shrink: 0;
+width: 25%;
 }
 .main-foto {
     width: 200px;
